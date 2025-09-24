@@ -1,19 +1,24 @@
+Peace be upon you, guys!
+I hope you’re all doing well 💜
 
-السلام عليكم يا شباب يارب تكونوا بخير 💜
-ده تاني اسايمنت Personal Data ,قبل ما نبدأ حل فيه ضرورى  نسمع المحاضره كويس و نقرأ الـ pdf ده
+This is the second assignment: Personal Data.
+Before we start solving it, it’s very important to listen carefully to the lecture and read this PDF:
 📝 PDF: https://bit.ly/46OV0Em
 
-📌  طيب ايه المطلوب مننا 🧐
-✅ عايزين نعمل  نفس الـ form ( الموجودة في اخر لينك ) بالظبط 💯
-❓طب مفيش اى hints كدا ؟ 
-  بس كدا ! 😊 ركز يا صديقي في الآتي : 
-1️⃣ المربع اللي فيه كلمة  "personal data" ده احنا مخدناهوش فى المحاضره , بس هنلاقيه مشروح فى الـ  pdf  
-2️⃣  الـ select هنعمل groups يعني مثلا cars وتحتها انواع عربيات وهكذا.
-3️⃣ الـ Submit btn عباره عن صوره مش button 😁
-4️⃣ الـ Inputs لازم تكون متساويه وفوق بعض زى مهو موجود ف الصوره وال ":" كلهم فوق بعض برضه. 
-5️⃣ نهتم جدااا بالـ for , name , id , ومننساش ان ليهم اهميه كبيره جدا سواء فى تحسين الـ Accessibility  فى الموقع بتاعنا , او اهميه الـ name للباك اند.
-🔗 W3schools Link :  https://www.w3schools.com/
+📌 So, what’s required from us? 🧐
+✅ We need to create the exact same form (the one at the last link) 💯
 
-و دا لينك الـ Form اللى هنعمل زيها  :
-🔗  https://bit.ly/46T2Ooo 
-الديد لاين: يوم الجمعة الساعة 10م
+❓No hints?
+Well, just focus on these points, my friend 😊:
+
+1️⃣ The box with the title “personal data” wasn’t covered in the lecture, but you’ll find it explained in the PDF.
+2️⃣ For the select, we’ll create groups — e.g., “Cars” as a main group, and under it different types of cars, and so on.
+3️⃣ The Submit button is actually an image, not a regular button 😁
+4️⃣ All the inputs should be equal in size and aligned vertically, exactly as shown in the picture. Also, make sure all the colons “:” line up perfectly.
+5️⃣ Pay close attention to using for, name, and id — don’t forget, they are very important! They improve Accessibility on our website, and the name attribute is crucial for the backend.
+
+🔗 W3Schools Link: https://www.w3schools.com/
+
+🔗 Here’s the form we need to copy: https://bit.ly/46T2Ooo
+
+Deadline: Friday at 10 PM
